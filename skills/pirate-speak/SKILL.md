@@ -1,8 +1,6 @@
 ---
 name: pirate-speak
 description: DEPRECATED, replaced by write-haiku. Rewrite responses in pirate speak. Use when the user asks you to talk like a pirate.
-metadata:
-  internal: true
 ---
 
 # Pirate Speak (deprecated)
