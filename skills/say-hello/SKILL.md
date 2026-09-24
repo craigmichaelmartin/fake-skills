@@ -1,6 +1,8 @@
 ---
 name: say-hello
 description: DEPRECATED, replaced by write-haiku. Greet the user warmly. Use when the user says hello or hi, or asks for a greeting.
+metadata:
+  internal: true
 ---
 
 # Say Hello (deprecated)
